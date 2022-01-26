@@ -49,6 +49,15 @@
 			"type": "creativeTab",
 			"entries": [
 				{
+					"id": "stewcontainers",
+					"icon": "stewprops:random_container_parcel"
+				}
+			]
+		},
+		{
+			"type": "creativeTab",
+			"entries": [
+				{
 					"id": "stewenchantment",
 					"icon": "stewitems:enc_glyph_a"
 				}

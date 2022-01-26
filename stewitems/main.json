@@ -29,6 +29,9 @@
 		},
 		{
 			"file": "seeds.json"
+		},
+		{
+			"file": "containers.json"
 		}
 	]
 }

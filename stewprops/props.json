@@ -3759,6 +3759,156 @@
                "model": "stewprops:cigar_box_4"
             }
          ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "letter",
+               "creativeTab": "stewprops",
+               "model": "stewprops:letter"
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "bunch_of_keys",
+               "creativeTab": "stewprops",
+               "model": "stewprops:bunch_of_keys"
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "microphone",
+               "creativeTab": "stewprops",
+               "model": "stewprops:microphone"
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "wallet_1",
+               "creativeTab": "stewprops",
+               "model": "stewprops:wallet_1"
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "wallet_2",
+               "creativeTab": "stewprops",
+               "model": "stewprops:wallet_2"
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "pouch_generic_1",
+               "creativeTab": "stewprops",
+               "model": "stewprops:pouch_generic_1"
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "carton_box",
+               "creativeTab": "stewprops",
+               "model": "stewprops:carton_box"
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "briefcase",
+               "creativeTab": "stewprops",
+               "model": "stewprops:briefcase"
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "bag_1",
+               "creativeTab": "stewprops",
+               "model": "stewprops:bag_1"
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "bag_2",
+               "creativeTab": "stewprops",
+               "model": "stewprops:bag_2"
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "gift_box_1",
+               "creativeTab": "stewprops",
+               "model": "stewprops:gift_box_1"
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "gift_box_2",
+               "creativeTab": "stewprops",
+               "model": "stewprops:gift_box_2"
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "gift_box_3",
+               "creativeTab": "stewprops",
+               "model": "stewprops:gift_box_3"
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "gift_box_4",
+               "creativeTab": "stewprops",
+               "model": "stewprops:gift_box_4"
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "gift_box_5",
+               "creativeTab": "stewprops",
+               "model": "stewprops:gift_box_5"
+            }
+         ]
       }
    ]
 }
